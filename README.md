@@ -9,5 +9,7 @@ To deal with Big Data, we look into Data Lake, which is an architecture approach
 # One of the key differences between Data Lake and Data Warehouse is at which point database schema is needed:
 
 Data Warehouse follows schema-on-write approach, where the data that lands on the Warehouse is well structured and are optimised for queries
+
+
 Data Lake follows schema-on-read approach, where the data is typically ingested raw (otherwise known as true-to-source). Schema is then worked out at the time of 
 when the data needs to be consumed depending on the use case
