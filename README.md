@@ -1,4 +1,4 @@
-# de_task
+# DE_task
 Data engineer related
 
 ![image](https://user-images.githubusercontent.com/36766101/170895929-bbc3419f-8fd8-4469-812c-0bf64dce8d17.png)
@@ -13,3 +13,13 @@ Data Warehouse follows schema-on-write approach, where the data that lands on th
 
 Data Lake follows schema-on-read approach, where the data is typically ingested raw (otherwise known as true-to-source). Schema is then worked out at the time of 
 when the data needs to be consumed depending on the use case
+
+
+
+
+
+# What is a Snowflake task?
+
+A Snowflake task in simple terms is a scheduler that can help you to schedule a single SQL or a stored procedure.
+
+A task can be very useful when combined with streams to make an end-to-end data pipeline. 
