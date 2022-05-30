@@ -32,3 +32,16 @@ The last service showed was SageMaker Data Wrangler, the fastest and easiest way
 A Snowflake task in simple terms is a scheduler that can help you to schedule a single SQL or a stored procedure.
 
 A task can be very useful when combined with streams to make an end-to-end data pipeline. 
+
+# How to load data into Snowflake
+
+Bulk loading
+![image](https://user-images.githubusercontent.com/36766101/171066726-2b77f884-7e80-4243-a195-d39202ec6393.png)
+
+Bulk loading is used when you need to import large amounts of data relatively quickly. This method enables to load bunch of files from a local server or an external cloud storage (data lake) into Snowflake.
+
+
+Continuous loading
+![image](https://user-images.githubusercontent.com/36766101/171066705-62e7650f-090f-4f34-8511-d6626686c097.png)
+
+Continuous loading allows you to do real-time data loading. It is done using Snowflake serveless service called “Snowpipe”, which enables loading data from files as soon as they’re available in a stage.
