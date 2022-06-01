@@ -45,3 +45,10 @@ Continuous loading
 ![image](https://user-images.githubusercontent.com/36766101/171066705-62e7650f-090f-4f34-8511-d6626686c097.png)
 
 Continuous loading allows you to do real-time data loading. It is done using Snowflake serveless service called “Snowpipe”, which enables loading data from files as soon as they’re available in a stage.
+
+
+
+
+![image](https://user-images.githubusercontent.com/36766101/171324603-625258ff-5e5d-4b52-a4fc-ece4a59263aa.png)
+![image](https://user-images.githubusercontent.com/36766101/171324967-80a4a954-b314-4e98-b84a-feb946abec3c.png)
+
