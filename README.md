@@ -54,3 +54,16 @@ Continuous loading allows you to do real-time data loading. It is done using Sno
 ![image](https://user-images.githubusercontent.com/36766101/171337565-e2f7b4e1-5a55-44ed-9534-a28ba1fd0120.png)
 
 
+
+
+
+For many data scientists, a typical workflow consists of using Pandas to do exploratory data analysis before moving to scikit-learn for machine learning.Numpy arrays provide fast and versatile ways to normalize data that can be used to clean and scale the data during the training of the machine learning models.Scikit-Learn’s machine learning models require the input to be a two-dimensional data structure of numeric values. No string values are allowed. 
+
+Encoding a single string column
+To start off, let’s encode a single string column, HouseStyle, which has values for the exterior of the house. Let’s output the unique counts of each string value.
+
+
+Principle Component Analysis.Principal component analysis (PCA)  is a dimensionality-reduction method that is often used to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller one that still contains most of the information in the large set.
+
+
+
