@@ -51,4 +51,6 @@ Continuous loading allows you to do real-time data loading. It is done using Sno
 
 ![image](https://user-images.githubusercontent.com/36766101/171324603-625258ff-5e5d-4b52-a4fc-ece4a59263aa.png)
 ![image](https://user-images.githubusercontent.com/36766101/171324967-80a4a954-b314-4e98-b84a-feb946abec3c.png)
+![image](https://user-images.githubusercontent.com/36766101/171337565-e2f7b4e1-5a55-44ed-9534-a28ba1fd0120.png)
+
 
