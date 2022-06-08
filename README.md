@@ -39,7 +39,6 @@ Bulk loading
 
 Bulk loading is used when you need to import large amounts of data relatively quickly. This method enables to load bunch of files from a local server or an external cloud storage (data lake) into Snowflake.
 
-![image](https://user-images.githubusercontent.com/36766101/172510178-7d135098-4cfd-4c25-a7bb-ca49ba093e85.png)
 
 Continuous loading
 ![image](https://user-images.githubusercontent.com/36766101/171066705-62e7650f-090f-4f34-8511-d6626686c097.png)
